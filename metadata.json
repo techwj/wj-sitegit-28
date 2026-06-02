@@ -1,0 +1,59 @@
+{
+  "siteId": "regional-breakfast-tour",
+  "generatedAt": "2026-06-02T15:38:16.255891",
+  "categories": [
+    "beginner-regional-breakfast-tour",
+    "advanced-regional-breakfast-tour",
+    "tips-regional-breakfast-tour",
+    "history-regional-breakfast-tour",
+    "trending-regional-breakfast-tour",
+    "tutorials-regional-breakfast-tour"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-regional-breakfast-tour",
+      "category_name": "Beginner Regional Breakfast Tour"
+    },
+    {
+      "category_slug": "advanced-regional-breakfast-tour",
+      "category_name": "Advanced Regional Breakfast Tour"
+    },
+    {
+      "category_slug": "tips-regional-breakfast-tour",
+      "category_name": "Regional Breakfast Tour Tips"
+    },
+    {
+      "category_slug": "history-regional-breakfast-tour",
+      "category_name": "Regional Breakfast Tour History"
+    },
+    {
+      "category_slug": "trending-regional-breakfast-tour",
+      "category_name": "Trending Regional Breakfast Tour"
+    },
+    {
+      "category_slug": "tutorials-regional-breakfast-tour",
+      "category_name": "Regional Breakfast Tour Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "regional-breakfast-tour",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Regional Breakfast Tour Central",
+    "articles_per_row": 3
+  }
+}

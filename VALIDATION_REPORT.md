@@ -1,0 +1,88 @@
+# Validation Report - regional-breakfast-tour
+
+Generated: 2026-06-02T15:38:16.255633
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Regional Breakfast Tour
+- ✓ Article word count OK: Beginner Regional Breakfast Tour: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Regional Breakfast Tour
+- ✓ Article word count OK: Beginner Regional Breakfast Tour Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Regional Breakfast Tour
+- ✓ Article word count OK: Beginner Regional Breakfast Tour in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Regional Breakfast Tour
+- ✓ Article word count OK: Common Mistakes in Beginner Regional Breakfast Tour
+- ✓ Article word count OK: Beginner Regional Breakfast Tour for Beginners
+- ✓ Article word count OK: Advanced Beginner Regional Breakfast Tour Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Regional Breakfast Tour
+- ✓ Article word count OK: Advanced Regional Breakfast Tour: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Regional Breakfast Tour
+- ✓ Article word count OK: Advanced Regional Breakfast Tour Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Regional Breakfast Tour
+- ✓ Article word count OK: Advanced Regional Breakfast Tour in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Regional Breakfast Tour
+- ✓ Article word count OK: Common Mistakes in Advanced Regional Breakfast Tour
+- ✓ Article word count OK: Advanced Regional Breakfast Tour for Beginners
+- ✓ Article word count OK: Advanced Advanced Regional Breakfast Tour Techniques
+- ✓ Article word count OK: The Ultimate Guide to Regional Breakfast Tour Tips
+- ✓ Article word count OK: Regional Breakfast Tour Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Regional Breakfast Tour Tips
+- ✓ Article word count OK: Regional Breakfast Tour Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Regional Breakfast Tour Tips
+- ✓ Article word count OK: Regional Breakfast Tour Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Regional Breakfast Tour Tips
+- ✓ Article word count OK: Common Mistakes in Regional Breakfast Tour Tips
+- ✓ Article word count OK: Regional Breakfast Tour Tips for Beginners
+- ✓ Article word count OK: Advanced Regional Breakfast Tour Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Regional Breakfast Tour History
+- ✓ Article word count OK: Regional Breakfast Tour History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Regional Breakfast Tour History
+- ✓ Article word count OK: Regional Breakfast Tour History Tips and Best Practices
+- ✓ Article word count OK: The History of Regional Breakfast Tour History
+- ✓ Article word count OK: Regional Breakfast Tour History in 2026: Current Trends
+- ✓ Article word count OK: Future of Regional Breakfast Tour History
+- ✓ Article word count OK: Common Mistakes in Regional Breakfast Tour History
+- ✓ Article word count OK: Regional Breakfast Tour History for Beginners
+- ✓ Article word count OK: Advanced Regional Breakfast Tour History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Regional Breakfast Tour
+- ✓ Article word count OK: Trending Regional Breakfast Tour: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Regional Breakfast Tour
+- ✓ Article word count OK: Trending Regional Breakfast Tour Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Regional Breakfast Tour
+- ✓ Article word count OK: Trending Regional Breakfast Tour in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Regional Breakfast Tour
+- ✓ Article word count OK: Common Mistakes in Trending Regional Breakfast Tour
+- ✓ Article word count OK: Trending Regional Breakfast Tour for Beginners
+- ✓ Article word count OK: Advanced Trending Regional Breakfast Tour Techniques
+- ✓ Article word count OK: The Ultimate Guide to Regional Breakfast Tour Tutorials
+- ✓ Article word count OK: Regional Breakfast Tour Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Regional Breakfast Tour Tutorials
+- ✓ Article word count OK: Regional Breakfast Tour Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Regional Breakfast Tour Tutorials
+- ✓ Article word count OK: Regional Breakfast Tour Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Regional Breakfast Tour Tutorials
+- ✓ Article word count OK: Common Mistakes in Regional Breakfast Tour Tutorials
+- ✓ Article word count OK: Regional Breakfast Tour Tutorials for Beginners
+- ✓ Article word count OK: Advanced Regional Breakfast Tour Tutorials Techniques
+- ✓ Ad configuration validated
